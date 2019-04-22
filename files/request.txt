@@ -1,0 +1,21 @@
+{
+	"mawbNo" : "M007039",
+	"hawbs" : [
+		{ "id":"H001","mawbNo":"M007039", "content" : "random-1"},
+		{ "id":"H002","mawbNo":"M007039", "content" : "random-2"},
+		{ "id":"H003","mawbNo":"M007039", "content" : "random-3"},
+		{ "id":"H004","mawbNo":"M007039", "content" : "random-4"},
+		{ "id":"H005","mawbNo":"M007039", "content" : "random-5"},
+		{ "id":"H006","mawbNo":"M007039", "content" : "random-6"},
+		{ "id":"H007","mawbNo":"M007039", "content" : "random-7"},
+		{ "id":"H008","mawbNo":"M007039", "content" : "random-8"},
+		{ "id":"H009","mawbNo":"M007039", "content" : "random-9"},
+		{ "id":"H0010","mawbNo":"M007039", "content" : "random-10"}
+	]
+}
+
+
+
+Add request headers
+customer:jal
+Content-Type:application/json
