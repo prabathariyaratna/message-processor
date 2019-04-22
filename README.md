@@ -1,5 +1,5 @@
 # Message-processor
-This repository contains a test message processor project.<br />
+This repository contains a test message processor project to showcase the feasibility of distributed processing only for demo purpose and not suitable for any praduction deployment.<br />
 **Note:-** This is only supported for the single customer(jal - hardcoded) but can extend for multiple customers. 
 
 **Steps to execute.**
